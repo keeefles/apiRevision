@@ -1,7 +1,7 @@
-function addition(a, b){
+const addition =(a, b) =>{
     return a + b
 }
-module.exports = {
+export {
     addition
 }
 
